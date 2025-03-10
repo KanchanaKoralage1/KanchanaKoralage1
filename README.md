@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋 I'm Kanchana Koralage</h1>
 <h3 align="center">Full Stack Developer | Frontend Developer</h3>
 
+<div align="center">
+  <p>📹 Watch my introduction video:</p>
+  <a href="https://1drv.ms/v/c/05b3c1161f60057c/ES_VkN6JaUFNhi7MCS2jduQBEyKjT_fCkD_hqknCVlaiKQ?e=mx8zb6" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/play-button-circled.png" alt="Play Video"/>
+  </a>
+</div>
+
 <p align="left">
 🚀 <b>About Me</b><br>
 I'm a passionate <b>Full Stack Developer</b> and aspiring <b>DevOps Engineer</b>, currently pursuing my IT degree at <b>SLIIT University</b>. My expertise lies in building modern, scalable web applications using the <b>MERN stack</b>, along with experience in <b>Spring Boot</b> for backend development. I'm deeply interested in <b>cloud technologies, DevOps practices, and automation</b> to optimize software development workflows.
