@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/7fd59aab-5138-4c02-bf22-11aa1723be27">
-    <img src="https://github.com/user-attachments/assets/59a7f533-c1dc-4107-8b37-256bd020d12b" alt="Click to Watch Video" width="600px">
+    <img src="https://github.com/user-attachments/assets/59a7f533-c1dc-4107-8b37-256bd020d12b" alt="Click to Watch Video" width="250" height="150">
   </a>
 </p>
 <br>
