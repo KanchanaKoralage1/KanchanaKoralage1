@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋 I'm Kanchana Koralage</h1>
 <h3 align="center">Full Stack Developer | Frontend Developer</h3>
 
-<div align="center">
-  <p>📹 Watch my introduction video:</p>
-  <a href="https://1drv.ms/v/c/05b3c1161f60057c/ES_VkN6JaUFNhi7MCS2jduQBEyKjT_fCkD_hqknCVlaiKQ?e=mx8zb6" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/play-button-circled.png" alt="Play Video"/>
-  </a>
-</div>
+<br><br>
 
 <p align="left">
 🚀 <b>About Me</b><br>
