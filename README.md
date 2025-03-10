@@ -2,7 +2,11 @@
 <h3 align="center">Full Stack Developer | Frontend Developer</h3>
 
 <br><br>
-https://github.com/user-attachments/assets/7fd59aab-5138-4c02-bf22-11aa1723be27
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/7fd59aab-5138-4c02-bf22-11aa1723be27">
+    <img src="YOUR_IMAGE_URL" alt="Click to Watch Video" width="600px">
+  </a>
+</p>
 
 <p align="left">
 🚀 <b>About Me</b><br>
