@@ -42,4 +42,7 @@ Let's connect and collaborate on innovative tech solutions.
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchanakoralage1&show_icons=true&locale=en" alt="kanchanakoralage1" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanakoralage1&" alt="kanchanakoralage1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanakoralage1&" alt="kanchanakoralage1" /></p> <br> <br>
+
+# Here some of my recent projects <br>
+ Library Management System [Click here](https://github.com/KanchanaKoralage1/Library-management)
