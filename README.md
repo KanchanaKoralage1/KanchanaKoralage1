@@ -20,11 +20,11 @@ Let's connect and collaborate on innovative tech solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanchanakoralage1&label=Profile%20views&color=0e75b6&style=flat" alt="kanchanakoralage1" /> </p>
 
-- 🔭 I’m currently working on **Fuel Management System (MERN Stack)**
+- 🔭 I’m currently working on **React-native projects**
 
-- 🌱 I’m currently learning **Spring Framework & DevOps**
+- 🌱 I’m currently learning **React-native**
 
-- 💬 Ask me about **React, MERN Stack, Spring Boot**
+- 💬 Ask me about **React, React-native, MERN Stack, Spring Boot**
 
 - 📫 How to reach me **itsmekanchanakoralage@gmail.com**
 
@@ -45,4 +45,7 @@ Let's connect and collaborate on innovative tech solutions.
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanakoralage1&" alt="kanchanakoralage1" /></p> <br> <br>
 
 # Here some of my recent projects <br>
- Library Management System [Click here](https://github.com/KanchanaKoralage1/Library-management)
+ - Book store Mobile app (React native) [Click here](https://github.com/KanchanaKoralage1/Book-store-Mobile-app) <br>
+ - Task Management Web App (Mern stack) [Click here](https://github.com/KanchanaKoralage1/Task-Management-WebApp) <br>
+ - Library Management System (Mern stack) [Click here](https://github.com/KanchanaKoralage1/Library-management) <br>
+ 
