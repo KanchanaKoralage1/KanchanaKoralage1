@@ -44,8 +44,9 @@ Let's connect and collaborate on innovative tech solutions.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kanchanakoralage1&show_icons=true&locale=en" alt="kanchanakoralage1" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanchanakoralage1&" alt="kanchanakoralage1" /></p> <br> <br>
 
-# Here some of my recent projects <br>
- - Book store Mobile app (React native) [Click here](https://github.com/KanchanaKoralage1/Book-store-Mobile-app) <br>
+# **Here some of my recent projects** <br>
+ - Social Media Web App (Spring boot) [Click here](https://github.com/KanchanaKoralage1/Social-Media-App) <br>
+ - Book Store Mobile App (React native) [Click here](https://github.com/KanchanaKoralage1/Book-store-Mobile-app) <br>
  - Task Management Web App (Mern stack) [Click here](https://github.com/KanchanaKoralage1/Task-Management-WebApp) <br>
  - Library Management System (Mern stack) [Click here](https://github.com/KanchanaKoralage1/Library-management) <br>
  
