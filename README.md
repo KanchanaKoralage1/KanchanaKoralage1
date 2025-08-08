@@ -48,6 +48,7 @@ Let's connect and collaborate on innovative tech solutions.
  </p>
  <h3 align="left">Frameworks & Libraries:</h3>
 <p align="left">
+    <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>&nbsp;&nbsp;
